@@ -18,6 +18,7 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - [BeliAkun](https://github.com/kizoukun/BeliAkun) - BeliAkun is a web application for user to purchase game account for example minecraft account, gta account. Not only game but all type of accounts, With automatic payment system using Nuxt and Tailwind
 - [StoreApp](https://github.com/kizoukun/storeapp) - StoreApp is a SaaS application that allow administrator to control their billing for game servers. Not only that it allow adminstrator to add a single purchase items, With automatic payment system using NodeJS, Tailwind, EJS, and AlpineJS
 - [RPX Nuxt](https://github.com/kizoukun/RPXNuxt) - RPXNuxt is a web application for minecraft server "RoomPixel" that allows user to automatically purchase in game items or ranks directly on website with automatic payment system using Nuxt and Tailwind
+- [Yuel Panel](https://github.com/kizoukun/yuel-panel) - YuelPanel is a fork of [Pterodactyl](https://pterodactyl.io) aim to modify and needs for YuelHost Customer with ReactJS, Laravel, and Tailwind
 - [Dungeon System](https://github.com/kizoukun/DungeonSystem) - Dungeon System is a Java Application for Minecraft Server that allows server owner to make dungeon gamemode for their server
 
 ## Contact
