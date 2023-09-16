@@ -10,6 +10,8 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - NodeJS
 - VueJS
 - Nuxt
+- NextJS
+- ReactJS
 
 ## Projects
 - [Trading Web Application](https://github.com/kizoukun/db-trading) - Radiant is a web application that allows users to buy and sell stocks using Laravel 10, Tailwind CSS, AlpineJS, AxiosJS, and SwiperJS.
@@ -20,6 +22,8 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - [RPX Nuxt](https://github.com/kizoukun/RPXNuxt) - RPXNuxt is a web application for minecraft server "RoomPixel" that allows user to automatically purchase in game items or ranks directly on website with automatic payment system using Nuxt and Tailwind
 - [Yuel Panel](https://github.com/kizoukun/yuel-panel) - YuelPanel is a fork of [Pterodactyl](https://pterodactyl.io) aim to modify and needs for YuelHost Customer with ReactJS, Laravel, and Tailwind
 - [Dungeon System](https://github.com/kizoukun/DungeonSystem) - Dungeon System is a Java Application for Minecraft Server that allows server owner to make dungeon gamemode for their server
+- [YuelHostNext](https://github.com/kizoukun/yuelhostnext) - Rework of YuelHost landing page using NextJS 13 App router, tailwind, shadcn, and next auth
+- [BeliAkunNext](https://github.com/kizoukun/beliakunnext) - Rework of BeliAkun using NextJS 13 App route, tailwind, shadcn, and next auth. For customer be able to buy account from our website
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/yudhistira-fauzy-achmadarel-31b66524b/)
