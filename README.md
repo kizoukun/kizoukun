@@ -8,6 +8,7 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - C++
 - Python
 - Javascript
+- Go
 
 ## Stacks
 - Laravel
@@ -30,6 +31,7 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - [YuelHostNext](https://github.com/kizoukun/yuelhostnext) - Rework of YuelHost landing page using NextJS 13 App router, tailwind, shadcn, and next auth
 - [BeliAkunNext](https://github.com/kizoukun/beliakunnext) - Rework of BeliAkun using NextJS 13 App route, tailwind, shadcn, and next auth. For customer be able to buy account from our website
 - [PUFA-Computing](https://github.com/kizoukun/PUFA-Computing) - Fork of PUFA Computing frontend that built on NextJS, This fork aim to make it standalone application that doesn't need GoLang as the backend
+- [Others]Many more private project that utilize other language and stacks
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/yudhistira-fauzy-achmadarel/)
