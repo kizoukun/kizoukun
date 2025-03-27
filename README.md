@@ -37,6 +37,7 @@ I'm a student at President University majoring in Information Technology. I'm pa
 - [LinkedIn](https://www.linkedin.com/in/yudhistira-fauzy-achmadarel/)
 - [Email](mailto:darel.busoftinc@gmail.com)
 
+![Alt text](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kizoukun&layout=compact&langs_count=8&theme=algolia)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=wdrm8j9myx8ica4ygg4rjvecb&width=840px&count=1)
 
 Feel free to connect with me! I'm always interested in collaborating on new projects and meeting new people. 😄
